@@ -1,0 +1,15 @@
+{
+	"stylesheets_engine": "compass",
+	"template_engine": "mustache",
+	"render_engine": "markdown",
+
+	"javascripts_folder": "javascripts",
+	"images_folder": "images",
+	"stylesheet_folder": "scss",
+	"stylesheet_build_folder": "stylesheets",
+
+	"posts_folder": "posts",
+	"pages_folder": "pages",
+	"theme_folder": "theme",
+	"draft_folder": "drafts"
+}
